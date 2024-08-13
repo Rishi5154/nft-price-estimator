@@ -48,9 +48,6 @@ Here's a quick sample of the schema used in metadata collection:
 
 ## Steps to Run Flask App Locally
 1. Clone this repository
-    ```sh
-    git clone https://github.com/cs4225-nft-price-estimator/nft-price-estimator
-    ```
 
 2. (Optional) If you don't have Python, you can follow the guide to install Python 3.9.8 [here](https://www.python.org/downloads/release/python-398/). Do not use the latest Python 3.10 version as Tensorflow is not supported.
 
